@@ -1,5 +1,5 @@
 # Schmid, Nick
-# Draft 1 of final project
+# Final project
 
 # Importing packages
 
